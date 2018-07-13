@@ -4,7 +4,7 @@
 
 [Time Complexy Cheat Sheet](#time-complexy-cheat-sheet)
 
-[1 Two Sum](#1-two-sum)
+[1 Two Sum](#1-two-sum) ✅
 
 [2 Add Tow Numbers](#2-add-two-numbers)
 
