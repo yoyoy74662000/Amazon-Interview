@@ -4,11 +4,11 @@
 
 [Time Complexy Cheat Sheet](#time-complexy-cheat-sheet)
 
-[1 Two Sum](#1-two-sum) ✅
+[1 Two Sum](#1-two-sum) 使用 HashMap✅
 
-[2 Add Tow Numbers](#2-add-two-numbers) ✅
+[2 Add Tow Numbers](#2-add-two-numbers) 使用 new dummy✅
 
-[3 Longest Substring Without Repeating Characters](#3-longest-substring-without-repeating-characters)✅
+[3 Longest Substring Without Repeating Characters](#3-longest-substring-without-repeating-characters) 使用HashSet✅
 
 [5 Longest Palindromic Substring](#5-longest-palindromic-substring)
 
