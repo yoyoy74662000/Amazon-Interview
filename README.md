@@ -10,7 +10,7 @@
 
 [3 Longest Substring Without Repeating Characters](#3-longest-substring-without-repeating-characters) 使用HashSet✅
 
-[5 Longest Palindromic Substring](#5-longest-palindromic-substring)
+[5 Longest Palindromic Substring](#5-longest-palindromic-substring) 使用 helper✅
 
 [8 String to Integer](#8-string-to-integer)
 
