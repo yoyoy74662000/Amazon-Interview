@@ -6,7 +6,7 @@
 
 [1 Two Sum](#1-two-sum) ✅
 
-[2 Add Tow Numbers](#2-add-two-numbers)
+[2 Add Tow Numbers](#2-add-two-numbers) ✅
 
 [3 Longest Substring Without Repeating Characters](#3-longest-substring-without-repeating-characters)
 
