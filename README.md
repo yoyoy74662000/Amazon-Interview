@@ -14,9 +14,9 @@
 
 [8 String to Integer](#8-string-to-integer) ✅
 
-[15 3 Sum](#15-3-sum) 使用 ✅
+[15 3 Sum](#15-3-sum) 使用 low & high✅
 
-[17 Letter Combinations of a Phone Number](#17-letter-combinations-of-a-phone-number)
+[17 Letter Combinations of a Phone Number](#17-letter-combinations-of-a-phone-number) 使用 DFS + Backtracking ✅
 
 [20 Valid Parentheses](#20-valid-parentheses)
 
