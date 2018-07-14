@@ -24,7 +24,7 @@
 
 [23 Merge k Sorted Lists](#23-merge-k-sorted-lists) follow up Merge two sorted list✅
 
-[42 Trapping Rain Water ](#42-trapping-rain-water)
+[42 Trapping Rain Water ](#42-trapping-rain-water) 使用 DP✅
 
 [48 Rotate Image](#48-rotate-image)
 
