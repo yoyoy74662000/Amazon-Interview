@@ -18,7 +18,7 @@
 
 [17 Letter Combinations of a Phone Number](#17-letter-combinations-of-a-phone-number) 使用 DFS + Backtracking ✅
 
-[20 Valid Parentheses](#20-valid-parentheses)
+[20 Valid Parentheses](#20-valid-parentheses) 使用 stack✅
 
 [21 Merge Two Sorted Lists ](#21-merge-two-sorted-lists)
 
