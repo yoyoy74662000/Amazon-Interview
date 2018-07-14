@@ -22,7 +22,7 @@
 
 [21 Merge Two Sorted Lists ](#21-merge-two-sorted-lists) 使用 dummy✅
 
-[23 Merge k Sorted Lists](#23-merge-k-sorted-lists)
+[23 Merge k Sorted Lists](#23-merge-k-sorted-lists) follow up Merge two sorted list✅
 
 [42 Trapping Rain Water ](#42-trapping-rain-water)
 
