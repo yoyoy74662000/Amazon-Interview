@@ -12,7 +12,7 @@
 
 [5 Longest Palindromic Substring](#5-longest-palindromic-substring) 使用 helper✅
 
-[8 String to Integer](#8-string-to-integer)
+[8 String to Integer](#8-string-to-integer) ✅
 
 [15 3 Sum](#15-3-sum)
 
