@@ -20,7 +20,7 @@
 
 [20 Valid Parentheses](#20-valid-parentheses) 使用 stack✅
 
-[21 Merge Two Sorted Lists ](#21-merge-two-sorted-lists)
+[21 Merge Two Sorted Lists ](#21-merge-two-sorted-lists) 使用 dummy✅
 
 [23 Merge k Sorted Lists](#23-merge-k-sorted-lists)
 
