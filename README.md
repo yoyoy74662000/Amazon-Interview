@@ -38,7 +38,7 @@
 
 [102 Binary Tree Level Order Traversal](#102-binary-tree-level-order-traversal) 使用Queue new LinkedList✅
 
-[119 Pascal's Triangle](119-pascal's-triangle)
+[119 Pascal's Triangle ll](119-pascal's-triangle) 使用 兩個迴圈 list.add(0 , 1); && list.set(j, list.get(j) + list.get(j + 1))✅
 
 [127 Word Ladder](127-word-ladder)
 
