@@ -30,7 +30,7 @@
 
 [49 Group Anagrams](#49-group-anagrams) 使用 HashMap -> toCharArray -> new String✅
 
-[73 Set Matrix Zeroes](#73-set-matrix-zeroes)
+[73 Set Matrix Zeroes](#73-set-matrix-zeroes) 使用端點✅
 
 [78 Subsets Permutations](#78-subsets-permutations)
 
