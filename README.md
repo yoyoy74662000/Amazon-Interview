@@ -26,7 +26,7 @@
 
 [42 Trapping Rain Water ](#42-trapping-rain-water) 使用 Using 2 pointers✅
 
-[48 Rotate Image](#48-rotate-image)
+[48 Rotate Image](#48-rotate-image) 使用 斜對稱，在對稱✅
 
 [49 Group Anagrams](#49-group-anagrams)
 
