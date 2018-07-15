@@ -34,9 +34,9 @@
 
 [78 Subsets Permutations](#78-subsets-permutations) 使用DFS✅
 
-[89 Gray Code ](#89-gray-code)
+[89 Gray Code ](#89-gray-code) ✅
 
-[102 Binary Tree Level Order Traversal](#102-binary-tree-level-order-traversal)
+[102 Binary Tree Level Order Traversal](#102-binary-tree-level-order-traversal) 使用Queue new LinkedList✅
 
 [119 Pascal's Triangle](119-pascal's-triangle)
 
