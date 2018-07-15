@@ -28,7 +28,7 @@
 
 [48 Rotate Image](#48-rotate-image) 使用 斜對稱，在對稱✅
 
-[49 Group Anagrams](#49-group-anagrams)
+[49 Group Anagrams](#49-group-anagrams) 使用 HashMap -> toCharArray -> new String✅
 
 [73 Set Matrix Zeroes](#73-set-matrix-zeroes)
 
