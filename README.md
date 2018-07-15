@@ -32,7 +32,7 @@
 
 [73 Set Matrix Zeroes](#73-set-matrix-zeroes) 使用端點✅
 
-[78 Subsets Permutations](#78-subsets-permutations)
+[78 Subsets Permutations](#78-subsets-permutations) 使用DFS✅
 
 [89 Gray Code ](#89-gray-code)
 
