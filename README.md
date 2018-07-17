@@ -54,7 +54,7 @@
 
 [160 Intersection of Two Linked Lists](#160-intersection-of-two-linked-lists) 使用 兩個node✅
 
-[167 Two Sum II - Input array is sorted](#167-two-sum-ii-input-array-is-sorted)
+[167 Two Sum II - Input array is sorted](#167-two-sum-ii-input-array-is-sorted) 使用 HashMap✅
 
 [189 Rotate Array](#189-rotate-array)
 
