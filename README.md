@@ -52,7 +52,7 @@
 
 [155 Min Stack](#155-min-stack) 使用 兩個stack 去比大小✅
 
-[160 Intersection of Two Linked Lists](#160-intersection-of-two-linked-lists)
+[160 Intersection of Two Linked Lists](#160-intersection-of-two-linked-lists) 使用 兩個node✅
 
 [167 Two Sum II - Input array is sorted](#167-two-sum-ii-input-array-is-sorted)
 
