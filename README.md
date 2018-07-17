@@ -42,7 +42,7 @@
 
 [127 Word Ladder](127-word-ladder) 使用Set, Queue, HashMap✅
 
-[141 Linked List Cycle](#141-linked-list-cycle)
+[141 Linked List Cycle](#141-linked-list-cycle) 使用 two pointer✅
 
 [146 LRU Cache](#146-lru-cache)
 
