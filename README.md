@@ -40,7 +40,7 @@
 
 [119 Pascal's Triangle ll](119-pascal's-triangle) 使用 兩個迴圈 list.add(0 , 1); && list.set(j, list.get(j) + list.get(j + 1))✅
 
-[127 Word Ladder](127-word-ladder)
+[127 Word Ladder](127-word-ladder) 使用Set, Queue, HashMap✅
 
 [141 Linked List Cycle](#141-linked-list-cycle)
 
