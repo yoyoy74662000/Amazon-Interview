@@ -56,7 +56,7 @@
 
 [167 Two Sum II - Input array is sorted](#167-two-sum-ii-input-array-is-sorted) 使用 HashMap✅
 
-[189 Rotate Array](#189-rotate-array)
+[189 Rotate Array](#189-rotate-array) 使用 三次Reverse()✅
 
 [200 Number of Islands](#200-number-of-islands)
 
