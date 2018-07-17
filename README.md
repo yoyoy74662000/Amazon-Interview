@@ -50,7 +50,7 @@
 
 [151 Reverse Words in a String](#151-reverse-words-in-a-string)
 
-[155 Min Stack](#155-min-stack)
+[155 Min Stack](#155-min-stack) 使用 兩個stack 去比大小✅
 
 [160 Intersection of Two Linked Lists](#160-intersection-of-two-linked-lists)
 
