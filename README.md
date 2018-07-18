@@ -64,7 +64,7 @@
 
 [204 Count Primes](204-count-primes) ✅
 
-[206 Reverse Linked List](206-Reverse-Linked-List) ✅
+[206 Reverse Linked List](206-Reverse-Linked-List) 使用 ListNode temp = head.next;head.next = prev;prev = head;head = temp;✅
 
 [215 Kth Largest Element in an Array](215-kth-largest-element-in-an-array)
 
