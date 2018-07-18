@@ -64,6 +64,8 @@
 
 [204 Count Primes](204-count-primes) ✅
 
+[206 Reverse Linked List](206-Reverse-Linked-List) ✅
+
 [215 Kth Largest Element in an Array](215-kth-largest-element-in-an-array)
 
 [234 Palindrome Linked List](#234-palindrome-linked-list)
