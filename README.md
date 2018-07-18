@@ -62,7 +62,7 @@
 
 [200 Number of Islands](#200-number-of-islands) 使用 dfs()✅
 
-[204 Count Primes](204-count-primes)
+[204 Count Primes](204-count-primes) ✅
 
 [215 Kth Largest Element in an Array](215-kth-largest-element-in-an-array)
 
