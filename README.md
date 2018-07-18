@@ -58,6 +58,8 @@
 
 [189 Rotate Array](#189-rotate-array) 使用 三次Reverse()✅
 
+[199 Binary Tree Right Side View](#189-Binary-Tree-Right-Side-View) 使用 queue，然後用一個for loop，再用 i == 0 res.add(cur.val)✅
+
 [200 Number of Islands](#200-number-of-islands)
 
 [204 Count Primes](204-count-primes)
