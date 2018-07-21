@@ -70,7 +70,7 @@
 
 [234 Palindrome Linked List](#234-palindrome-linked-list)
 
-[235 Lowest Common Ancestor of a Binary Search Tree](#235-lowest-common-ancestor-of-a-binary-search-tree)
+[235 Lowest Common Ancestor of a Binary Search Tree](#235-lowest-common-ancestor-of-a-binary-search-tree) 使用比大小✅
 
 [236 Lowest Common Ancestor of a Binary Tree](#236-lowest-common-ancestor-of-a-binary-tree)
 
