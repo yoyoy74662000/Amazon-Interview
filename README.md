@@ -78,7 +78,7 @@
 
 [240 Search a 2D Matrix II](#240-search-a-2d-matrix-ii)
 
-[242 Valid Anagram](#242-valid-anagram)
+[242 Valid Anagram](#242-valid-anagram) 使用 Arrays.equals()✅
 
 [380 Insert Delete GetRandom O(1)](#380-insert-delete-getrandom-O-(-1-))
 
