@@ -72,7 +72,7 @@
 
 [235 Lowest Common Ancestor of a Binary Search Tree](#235-lowest-common-ancestor-of-a-binary-search-tree) 使用比大小✅
 
-[236 Lowest Common Ancestor of a Binary Tree](#236-lowest-common-ancestor-of-a-binary-tree)
+[236 Lowest Common Ancestor of a Binary Tree](#236-lowest-common-ancestor-of-a-binary-tree) 使用 treenode left & right recursion✅
 
 [238 Product of Array Except Self](#238-product-of-array-except-self)
 
