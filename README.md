@@ -68,7 +68,7 @@
 
 [215 Kth Largest Element in an Array](215-kth-largest-element-in-an-array) 使用 PriorityQueue 在使用兩個poll()✅
 
-[234 Palindrome Linked List](#234-palindrome-linked-list)
+[234 Palindrome Linked List](#234-palindrome-linked-list) 使用findmiddle() & reverse() ✅
 
 [235 Lowest Common Ancestor of a Binary Search Tree](#235-lowest-common-ancestor-of-a-binary-search-tree) 使用比大小✅
 
