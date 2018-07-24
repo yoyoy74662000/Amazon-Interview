@@ -74,7 +74,7 @@
 
 [236 Lowest Common Ancestor of a Binary Tree](#236-lowest-common-ancestor-of-a-binary-tree) 使用 treenode left & right recursion✅
 
-[238 Product of Array Except Self](#238-product-of-array-except-self)
+[238 Product of Array Except Self](#238-product-of-array-except-self) ✅
 
 [240 Search a 2D Matrix II](#240-search-a-2d-matrix-ii)
 
