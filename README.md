@@ -76,7 +76,7 @@
 
 [238 Product of Array Except Self](#238-product-of-array-except-self) ✅
 
-[240 Search a 2D Matrix II](#240-search-a-2d-matrix-ii)
+[240 Search a 2D Matrix II](#240-search-a-2d-matrix-ii) 使用 if elseif else [target martrix[row][col]]✅
 
 [242 Valid Anagram](#242-valid-anagram) 使用 Arrays.equals()✅
 
