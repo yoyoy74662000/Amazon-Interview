@@ -86,7 +86,7 @@
 
 [538 Convert BST to Greater Tree](#538-convert-bst-to-greater-tree)
 
-[617 Merge Two Binary Trees](#617-merge-two-binary-trees)
+[617 Merge Two Binary Trees](#617-merge-two-binary-trees) 使 two recursion✅
 
 [746 Min Cost Climbing Stairs](#746-min-cost-climbing-stairs)
 
