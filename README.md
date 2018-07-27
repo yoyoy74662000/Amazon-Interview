@@ -82,6 +82,8 @@
 
 [380 Insert Delete GetRandom O(1)](#380-insert-delete-getrandom-O-(-1-))
 
+[387 First Unique Character in a String](#387-First-Unique–Character-in-a-String) 使用 HashMap✅
+
 [535 Encode and Decode TinyURL](#535-encode-and-decode-tinyurl)
 
 [538 Convert BST to Greater Tree](#538-convert-bst-to-greater-tree)
