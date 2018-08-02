@@ -1,7 +1,3 @@
-# Interview
-
-# A company 
-
 [Time Complexy Cheat Sheet](#time-complexy-cheat-sheet)
 
 [1 Two Sum](#1-two-sum) 使用 HashMap✅
